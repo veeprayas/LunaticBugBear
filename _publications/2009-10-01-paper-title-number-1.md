@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Enabling convenient online collaborative writing for low vision screen magnifier users"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://doi.org/10.1145/3511095.3531274
+excerpt: 'Online collaborative editors have become increasingly prevalent in both professional and academic settings. However, little is known about how usable these editors are for low vision screen magnifier users, as existing research works have predominantly focused on blind screen reader users. An interview study revealed that it is arduous and frustrating for screen magnifier users to perform even the basic collaborative writing activities, such as addressing collaborators’ comments and reviewing document changes. Specific interaction challenges underlying these issues included excessive panning, content occlusion, large empty space patches, and frequent loss of context. To address these challenges, we developed MagDocs, a browser extension that assists screen magnifier users in conveniently performing collaborative writing activities on the Google Docs web application. MagDocs is rooted in two ideas: (i) a custom support interface that users can instantly access on demand and interact with collaborative interface elements, such as comments or collaborator edits, within the current magnifier viewport; and (ii) visual relationship preservation, where collaborative elements and the corresponding text in the document are shown close to each other within the magnifier viewport to minimize context loss and panning effort. A study with 15 low vision users showed that MagDocs significantly improved the overall user satisfaction and interaction experience, while also substantially reduced the time and effort to perform typical collaborative writing tasks.'
+date: 2022/6/28
+venue: 'HT '22: Proceedings of the 33rd ACM Conference on Hypertext and Social Media'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1145/3511095.3531274'
+citation: 'Lee, H.N., Prakash, Y., Sunkara, M., Ramakrishnan, I.V. and Ashok, V., 2022, June. Enabling convenient online collaborative writing for low vision screen magnifier users. In Proceedings of the 33rd ACM Conference on Hypertext and Social Media (pp. 143-153).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Online collaborative editors have become increasingly prevalent in both professional and academic settings. However, little is known about how usable these editors are for low vision screen magnifier users, as existing research works have predominantly focused on blind screen reader users. An interview study revealed that it is arduous and frustrating for screen magnifier users to perform even the basic collaborative writing activities, such as addressing collaborators’ comments and reviewing document changes. Specific interaction challenges underlying these issues included excessive panning, content occlusion, large empty space patches, and frequent loss of context. To address these challenges, we developed MagDocs, a browser extension that assists screen magnifier users in conveniently performing collaborative writing activities on the Google Docs web application. MagDocs is rooted in two ideas: (i) a custom support interface that users can instantly access on demand and interact with collaborative interface elements, such as comments or collaborator edits, within the current magnifier viewport; and (ii) visual relationship preservation, where collaborative elements and the corresponding text in the document are shown close to each other within the magnifier viewport to minimize context loss and panning effort. A study with 15 low vision users showed that MagDocs significantly improved the overall user satisfaction and interaction experience, while also substantially reduced the time and effort to perform typical collaborative writing tasks.

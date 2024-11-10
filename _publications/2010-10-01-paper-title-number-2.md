@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "AutoDesc: Facilitating Convenient Perusal of Web Data Items for Blind Users"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://doi.org/10.1145/3581641.3584049
+excerpt: 'Web data items such as shopping products, classifieds, and job listings are indispensable components of most e-commerce websites. The information on the data items are typically distributed over two or more webpages, e.g., a ‘Query-Results’ page showing the summaries of the items, and ‘Details’ pages containing full information about the items. While this organization of data mitigates information overload and visual cluttering for sighted users, it however increases the interaction overhead and effort for blind users, as back-and-forth navigation between webpages using screen reader assistive technology is tedious and cumbersome. Existing usability-enhancing solutions are unable to provide adequate support in this regard as they predominantly focus on enabling efficient content access within a single webpage, and as such are not tailored for content distributed across multiple webpages. As an initial step towards addressing this issue, we developed AutoDesc, a browser extension that leverages a custom extraction model to automatically detect and pull out additional item descriptions from the ‘details’ pages, and then proactively inject the extracted information into the ‘Query-Results’ page, thereby reducing the amount of back-and-forth screen reader navigation between the two webpages. In a study with 16 blind users, we observed that within the same time duration, the participants were able to peruse significantly more data items on average with AutoDesc, compared to that with their preferred screen readers as well as with a state-of-the-art solution.'
+date: 2023/3/27
+venue: 'IUI '23: Proceedings of the 28th International Conference on Intelligent User Interfaces'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://doi.org/10.1145/3581641.3584049'
+citation: 'Prakash, Y., Sunkara, M., Lee, H.N., Jayarathna, S. and Ashok, V., 2023, March. AutoDesc: Facilitating Convenient Perusal of Web Data Items for Blind Users. In Proceedings of the 28th International Conference on Intelligent User Interfaces (pp. 32-45).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Web data items such as shopping products, classifieds, and job listings are indispensable components of most e-commerce websites. The information on the data items are typically distributed over two or more webpages, e.g., a ‘Query-Results’ page showing the summaries of the items, and ‘Details’ pages containing full information about the items. While this organization of data mitigates information overload and visual cluttering for sighted users, it however increases the interaction overhead and effort for blind users, as back-and-forth navigation between webpages using screen reader assistive technology is tedious and cumbersome. Existing usability-enhancing solutions are unable to provide adequate support in this regard as they predominantly focus on enabling efficient content access within a single webpage, and as such are not tailored for content distributed across multiple webpages. As an initial step towards addressing this issue, we developed AutoDesc, a browser extension that leverages a custom extraction model to automatically detect and pull out additional item descriptions from the ‘details’ pages, and then proactively inject the extracted information into the ‘Query-Results’ page, thereby reducing the amount of back-and-forth screen reader navigation between the two webpages. In a study with 16 blind users, we observed that within the same time duration, the participants were able to peruse significantly more data items on average with AutoDesc, compared to that with their preferred screen readers as well as with a state-of-the-art solution.
