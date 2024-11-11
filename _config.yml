@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yash Prakash"
   pronouns         : # example: "she/her"  
-  bio              : "Human Computer Interaction, Human-Centered AI, Natural Language Processing"
+  bio              : "Human Computer Interaction, Human-Centered AI, Natural Language Processing, Information Visualization"
   location         : "Norfolk, VA, USA"
   employer         : "Old Dominion University"
   uri              : # URL
@@ -224,6 +224,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
