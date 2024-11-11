@@ -1,7 +1,7 @@
 ---
 title: "All in One Place: Ensuring Usable Access to Online Shopping Items for Blind Users"
 collection: publications
-category: manuscripts
+# category: manuscripts
 permalink: https://doi.org/10.1145/3664639
 excerpt: 'Perusing web data items such as shopping products is a core online user activity. To prevent information overload, the content associated with data items is typically dispersed across multiple webpage sections over multiple web pages. However, such content distribution manifests an unintended side effect of significantly increasing the interaction burden for blind users, since navigating to-and-fro between different sections in different pages is tedious and cumbersome with their screen readers. While existing works have proposed methods for the context of a single webpage, solutions enabling usable access to content distributed across multiple webpages are few and far between. In this paper, we present InstaFetch, a browser extension that dynamically generates an alternative screen reader-friendly user interface in real-time, which blind users can leverage to almost instantly access different item-related information such as description, full specification, and user reviews, all in one place, without having to tediously navigate to different sections in different webpages. Moreover, InstaFetch also supports natural language queries about any item, a feature blind users can exploit to quickly obtain desired information, thereby avoiding manually trudging through reams of text. In a study with 14 blind users, we observed that the participants needed significantly lesser time to peruse data items with InstaFetch, than with a state-of-the-art solution.'
 date: 2024/6/17
